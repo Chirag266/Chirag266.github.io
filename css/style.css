@@ -59,7 +59,7 @@
     display: flex;
     flex-direction: column;
     background-color: #FFDAB9;
-    height: 880px;
+    height: 1000px;
     width: 30%;
     padding: 2px;
     float:right;
@@ -107,13 +107,26 @@
     margin-bottom: 10px;
    
 }
+#skillss{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+#certificates{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-bottom: 10px;
+   
+}
 
 #Main-Block{
     float: left;
     width: 69.7%;
-    height: 880px;
     background-color: #E9967A;
     color:white;
+    height: 1000px;
 }
 
 #education{
@@ -172,7 +185,6 @@
 
 #achievements{
     margin-left: 50px;
-    margin-top: 30px;
     padding: 2px;
     width: 700px;
 }
